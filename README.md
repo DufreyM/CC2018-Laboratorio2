@@ -4,7 +4,7 @@ Link del video: https://www.canva.com/design/DAGukMcxF2w/-dnzf4Z9ozKRUSRg6OYWvw/
 
 # Para probarlo
 
-git clone https://github.com/tu-usuario/game_of_life.git
+git clone
 cd game_of_life
 cargo build
 cargo run
